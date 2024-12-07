@@ -1,0 +1,6 @@
+# virtualenv
+vend1/
+ENV/
+env/
+env.bak/
+venv.bak/
